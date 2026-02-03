@@ -79,19 +79,17 @@ c (constant) = **0.021559**
 
 - The distribution of transformed values still looks roughly bell-shaped  
 - Small λ suggests data is quite spread out  
-- The transformation did not distort the data heavily, only added mild non-linearity  
+ 
 
 ---
 
 ## Tools Used
-
-- Python  
 - NumPy  
 - Pandas  
-- Matplotlib (for checking data visually)
+
 
 ---
 
 ## Conclusion
 
-This experiment helped me understand how transformations can change data distributions and how PDFs can be estimated from real data. Using the roll num
+This experiment helped me understand how transformations can change data distributions and how PDFs can be estimated from real data. Using the roll number
